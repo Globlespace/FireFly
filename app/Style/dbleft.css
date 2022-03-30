@@ -1,0 +1,147 @@
+.dbMenuLeft {
+    width: 320px;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    overflow-y: auto;
+    background: #fff;
+    z-index: 10;
+    position: fixed;
+}
+.dbMenuLeft .TT_logo {
+    max-width: 210px;
+    margin: 4px auto;
+    display: block;
+    height: 25px;
+    position: relative;
+}
+
+.text-center {
+    text-align: center;
+}
+.wfull {
+    width: 100%!important;
+}
+.duration--2ok_Kqh, .slab--1VeGFYD {
+    text-align: center;
+}
+.slab--1VeGFYD.active--1nxJpCm {
+    background: #56c4c1;
+    color: #fff;
+}
+.slab--1VeGFYD:first-child {
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+.slab--1VeGFYD.active--1nxJpCm {
+    background: #56c4c1;
+    color: #fff;
+}
+.slab--1VeGFYD:first-child {
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+.slab--1VeGFYD {
+    background: #d6d6d6;
+    border-radius: 0;
+    color: #888;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 3px 10px;
+    position: relative;
+}
+
+.slab--1VeGFYD {
+    background: #d6d6d6;
+    border-radius: 0;
+    color: #888;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 3px 10px;
+    position: relative;
+}
+
+.duration--2ok_Kqh, .slab--1VeGFYD {
+    text-align: center;
+}
+.slab--1VeGFYD {
+    background: #d6d6d6;
+    border-radius: 0;
+    color: #888;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 3px 10px;
+    position: relative;
+}
+.statsInfo--1i-4fr1:first-child {
+    border-color: #02c39a;
+}
+
+.statsInfo--1i-4fr1:first-child {
+    border-color: #02c39a;
+}
+.statsInfo--1i-4fr1 {
+    border: 3px solid #d4d4d4;
+    width: 85px;
+    margin: 0 5px;
+    display: inline-block;
+}
+.statsInfo--1i-4fr1 {
+    border: 3px solid #d4d4d4;
+    width: 85px;
+    margin: 0 5px;
+    display: inline-block;
+}
+.count--3ig9UBi {
+    font-size: 20px;
+    line-height: 45px;
+    font-weight: 900;
+}
+.statsInfo--1i-4fr1:first-child p {
+    background-color: #02c39a;
+}
+
+.statsInfo--1i-4fr1:first-child p {
+    background-color: #02c39a;
+}
+.status--1Rr0ReA {
+    margin: 0;
+    background: #d4d4d4;
+    color: #3e3e3e;
+    font-size: 14px;
+    padding: 5px 0;
+    color: #fff;
+}
+.stages--1qP-97H {
+    margin-top: 15px;
+}
+.stages--1qP-97H li {
+    position: relative;
+    border-top: 1px solid #ececec;
+    width: 100%;
+    list-style: none;
+}
+.stages--1qP-97H a.leadLink--3S82t_e {
+    color: #3e3e3e;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding: 10px 30px 10px 60px;
+    background: #fff;
+    min-height: 57px;
+}
+.info--2B4383D {
+    display: block;
+    font-size: 12px;
+    color: #9f9f9f;
+    font-weight: 400!important;
+}
+.text-right{
+    text-align: right;;
+}
